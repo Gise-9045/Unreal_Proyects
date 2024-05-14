@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/FirstPerson/UI/WB_Main.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MM/AG5RN90WOR0RQ5LEUH3R32.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/StarterContent/Materials/M_Water_Lake.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/StarterContent/Props/Materials/M_Statue.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/StarterContent/Materials/M_Rock_Basalt.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/StarterContent/Materials/M_Metal_Chrome.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/StarterContent/Props/Materials/M_Lamp.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/FirstPerson/UI/screenRed.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/FirstPerson/UI/Damage_Sceen.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/StarterContent/Props/Materials/M_Lamp.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Models/Draculaura/TEX_mat1.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Models/Draculaura/TEX_mat2.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Models/Draculaura/mat2_png.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Models/Draculaura/Model.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Models/Heart/ITM0003T00.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Models/Heart/M_ITM0003T00_Heart.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Models/Heart/T_ITM0003_Heart_D.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Models/Heart/ITM0003T00_Skeleton.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Models/Heart/ITM0003T00_PhysicsAsset.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/FU/V6XARO8WECOWXPAO2VH3H7.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Models/Heart/Heart.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Z8/H0BNPET5YJ3JJLSU52M244.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Animations/HeartLoop/NewLevelSequence.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/Models/Draculaura/Draculaura.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/0B/O77O0MFWO5EOCNGB3VKU5E.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS 5.2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/L9/9PXW9S611ZBTK2TSP9VWBO.uasset",
+				"C:/Users/Gisela/Desktop/Unreal_Proyects/AA7_FPS/AA7_FPS/Content/FirstPerson/UI/damage_screen.uasset"
+			]
+		}
+	]
+}
